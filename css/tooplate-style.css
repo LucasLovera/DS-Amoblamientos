@@ -406,8 +406,7 @@ p:last-child {
   }
 
   footer {
-    position: relative;
-    bottom: 0;
+        bottom: 0;
   }
 }
 
